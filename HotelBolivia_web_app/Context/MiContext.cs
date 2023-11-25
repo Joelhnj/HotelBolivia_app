@@ -11,7 +11,8 @@ namespace HotelBolivia_web_app.Context
         {
         }
         public DbSet<Usuario> Usuarios { get; set; }
-        public DbSet<Habitaciones> Habitaciones  { get; set; }
+        public DbSet<Habitaciones> Habitaciones { get; set; }
+        public DbSet<Cliente> Cliente { get; set; }
     }  
     
 }

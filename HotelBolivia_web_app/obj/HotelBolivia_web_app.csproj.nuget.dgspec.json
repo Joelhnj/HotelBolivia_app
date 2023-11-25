@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HNJ\\Downloads\\LIBROS DE PROGRAMCION EN C++ BUENOS\\proyecto grupo actualizacion\\HotelBolivia_web_app\\HotelBolivia_web_app\\HotelBolivia_web_app.csproj": {}
+    "C:\\Users\\HNJ\\Desktop\\TODO DE VISUL\\HotelBolivia_app\\HotelBolivia_web_app\\HotelBolivia_web_app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HNJ\\Downloads\\LIBROS DE PROGRAMCION EN C++ BUENOS\\proyecto grupo actualizacion\\HotelBolivia_web_app\\HotelBolivia_web_app\\HotelBolivia_web_app.csproj": {
+    "C:\\Users\\HNJ\\Desktop\\TODO DE VISUL\\HotelBolivia_app\\HotelBolivia_web_app\\HotelBolivia_web_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HNJ\\Downloads\\LIBROS DE PROGRAMCION EN C++ BUENOS\\proyecto grupo actualizacion\\HotelBolivia_web_app\\HotelBolivia_web_app\\HotelBolivia_web_app.csproj",
+        "projectUniqueName": "C:\\Users\\HNJ\\Desktop\\TODO DE VISUL\\HotelBolivia_app\\HotelBolivia_web_app\\HotelBolivia_web_app.csproj",
         "projectName": "HotelBolivia_web_app",
-        "projectPath": "C:\\Users\\HNJ\\Downloads\\LIBROS DE PROGRAMCION EN C++ BUENOS\\proyecto grupo actualizacion\\HotelBolivia_web_app\\HotelBolivia_web_app\\HotelBolivia_web_app.csproj",
+        "projectPath": "C:\\Users\\HNJ\\Desktop\\TODO DE VISUL\\HotelBolivia_app\\HotelBolivia_web_app\\HotelBolivia_web_app.csproj",
         "packagesPath": "C:\\Users\\HNJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HNJ\\Downloads\\LIBROS DE PROGRAMCION EN C++ BUENOS\\proyecto grupo actualizacion\\HotelBolivia_web_app\\HotelBolivia_web_app\\obj\\",
+        "outputPath": "C:\\Users\\HNJ\\Desktop\\TODO DE VISUL\\HotelBolivia_app\\HotelBolivia_web_app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HNJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.23, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
